@@ -16,6 +16,11 @@
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_**akmlfhm/akmlfhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## 🎮 Main Game Mini Saya!
+<img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/game-preview.gif" width="400">
+
+🔗 [Klik di sini untuk mainkan gamenya](https://USERNAME.github.io/REPO-NAME/)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
