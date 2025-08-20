@@ -4,8 +4,6 @@ Terima Kasih.<br>
 ![Location](https://img.shields.io/badge/-Semarang%2C%20Central%20Java%2C%20Indonesia-blue?style=flat&logo=google-maps)
 <br>
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahimm.akmal)
 
