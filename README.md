@@ -1,9 +1,7 @@
-## Hi there 👋
-![Location](https://img.shields.io/badge/-Semarang%2C%20Central%20Java%2C%20Indonesia-blue?style=flat&logo=google-maps)
-
 # 💫 About Me:
 Saya adalah mahasiswa.
 Terima Kasih.
+![Location](https://img.shields.io/badge/-Semarang%2C%20Central%20Java%2C%20Indonesia-blue?style=flat&logo=google-maps)
 <br><br>
 
 
@@ -21,8 +19,6 @@ Terima Kasih.
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-## 🤖 AI Tools
 ![OpenAI GPT](https://img.shields.io/badge/GPT-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Blackbox AI](https://img.shields.io/badge/BlackboxAI-000000.svg?style=for-the-badge&logo=codeium&logoColor=white)
